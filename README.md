@@ -1,0 +1,1 @@
+* Научимся работать с аннотациями @Scope, @Value, @PostConstruct, @PreDestroy
